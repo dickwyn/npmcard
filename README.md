@@ -1,5 +1,7 @@
 # npmcard
 
+![screenshot](screenshot.png)
+
 It's me, dickwyn on npm
 
 ```sh
