@@ -23,10 +23,7 @@ const data = {
   github: chalk.blue("https://github.com/dickwyn"),
   linkedin: chalk.blue("https://linkedin.com/in/dickwyn"),
   web: chalk.blue("https://dickwyn.xyz"),
-  npx:
-    chalk.red("npx") +
-    " " +
-    chalk.white("dickwyn  (via GitHub Package Registry)"),
+  npx: chalk.red("npx") + " " + chalk.white("dickwyn"),
   labelWork: chalk.white.bold("    Work:"),
   labelTwitter: chalk.white.bold(" Twitter:"),
   labelnpm: chalk.white.bold("     npm:"),

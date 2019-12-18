@@ -1,6 +1,6 @@
 {
   "name": "dickwyn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Dick Wyn Yong (@dickwyn)",
   "main": "/bin/card.js",
   "bin": {
@@ -39,9 +39,5 @@
   },
   "bugs": {
     "url": "https://github.com/dickwyn/npmcard/issues"
-  },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
   }
 }

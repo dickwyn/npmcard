@@ -1,16 +1,17 @@
-It's me, Tierney!
+# npmcard
 
-# Usage
+It's me, dickwyn on npm
 
-## npm
-```
-npx bitandbang
-```
-
-## GitHub Package Registry
-Assuming you have the GitHub registry set up, you can use via npx:
-```
-npx @bnb/card
+```sh
+$ npx dickwyn
 ```
 
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+## Inspiration
+
+1. [Hui Jing](https://github.com/huijing/hj_chen)
+2. [Tierney Cyren](https://github.com/bnb/bitandbang)
+3. [Conlin Durbin](https://dev.to/wuz/setting-up-a-npx-username-card-1pip)
+
+## License
+
+The contents of this repository are covered under the [MIT License](https://github.com/dickwyn/npmcard/blob/master/LICENSE)
