@@ -2,7 +2,9 @@
 
 ![screenshot](screenshot.png)
 
-It's me, dickwyn on npm
+It's me, dickwyn on npm.
+
+## Installation
 
 ```sh
 $ npx dickwyn
