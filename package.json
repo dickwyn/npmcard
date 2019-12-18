@@ -1,16 +1,16 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "dickwyn",
+  "version": "1.0.0",
+  "description": "A personal card for Dick Wyn Yong (@dickwyn)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "dickwyn": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/dickwyn/npmcard.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://www.dickwynx.xyz",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Dick Wyn Yong <dickwyn@outlook.com> (http://www.dickwyn.xyz)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/dickwyn/npmcard/issues"
   },
   "dependencies": {},
   "publishConfig": {
