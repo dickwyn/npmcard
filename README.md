@@ -1,6 +1,6 @@
 # npmcard
 
-![screenshot](screenshot.png)
+![screenshot](https://raw.githubusercontent.com/dickwyn/npmcard/master/packages/screenshot.png)
 
 It's me, dickwyn on npm.
 
