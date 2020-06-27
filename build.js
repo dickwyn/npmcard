@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white("    Dick Wyn Yong"),
   handle: chalk.white("@dickwyn"),
-  work: chalk.white("Front End Engineer at Prism Studios / Clairvoyant"),
+  work: chalk.white("Senior Front End Engineer at Prism Studios / Clairvoyant"),
   twitter: chalk.green("https://twitter.com/dickwyn"),
   npm: chalk.green("https://npmjs.com/~dickwyn"),
   github: chalk.green("https://github.com/dickwyn"),
